@@ -9,6 +9,6 @@ def kiraPeratus(h1,h2):
   if peratus>0:
     print("Keuntungan ialah",peratus,"%")
   else:
-    print("Kerugian ialah",abs(peratus),&)
+    print("Kerugian ialah",abs(peratus),"%")
 h1=inputPengguna("Masukkan harga kos RM")
 h2=inputPengguna("Masukkan harga jualan RM")
